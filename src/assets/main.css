@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body{
+  @apply h-screen w-screen overflow-x-hidden overflow-y-auto;
+}
